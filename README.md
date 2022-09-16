@@ -1,2 +1,1 @@
-# JS
-second course practice
+# mentoring-simple-webpack-starter
