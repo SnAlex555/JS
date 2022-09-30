@@ -88,5 +88,18 @@
 //   }
 // }
 
-let string = 'aaa bbb ccc';
-console.log(string.slice(string,string + 3));
+// let string = 'aaa bbb ccc';
+// console.log(string.slice(string,string + 3));
+
+
+// let array = [ 2, 3, 4, null, undefined,"", false, 5, 6, 0 ];
+
+// const callback = (item) => {
+//   return Boolean(item)  || typeof item === "number"
+// }
+
+// const compact = (arr) =>{
+//   return arr.filter(callback)
+// }
+
+// console.log(compact(array));
