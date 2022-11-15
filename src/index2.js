@@ -103,3 +103,11 @@
 // }
 
 // console.log(compact(array));
+
+let arr = ['aaa', 'bbb', 'ccc'];
+
+const reversed = arr.reverse();
+
+console.log(arr.reverse);
+
+
